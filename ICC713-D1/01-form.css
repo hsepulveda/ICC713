@@ -1,0 +1,14 @@
+p {color:black; 
+    font: size 14px;
+    line-height:30px;
+    letter-spacing:0px;
+    text-transform:capitalize;
+    text-align:center;
+    text-indent:30px;
+ }
+
+ 
+h1 {color:black;
+    font: size 16px;
+    text-align: center;
+}
